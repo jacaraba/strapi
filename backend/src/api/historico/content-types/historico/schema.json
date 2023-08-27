@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "historicos",
+  "info": {
+    "singularName": "historico",
+    "pluralName": "historicos",
+    "displayName": "historico",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "VcrCodHis": {
+      "type": "string"
+    },
+    "VcrRadSol": {
+      "type": "string"
+    },
+    "VcrNomAti": {
+      "type": "string"
+    },
+    "VcrLon": {
+      "type": "float"
+    },
+    "VcrLat": {
+      "type": "float"
+    }
+  }
+}
