@@ -10,7 +10,7 @@ const Nav = ({ categories }) => {
           <ul className="uk-navbar-nav" style={{ backgroundColor: "#87CEEB" }}>
             <li>
               <Link href="/">
-                <a>INICIO</a>
+                <a className="uk-link-reset" style={{ fontSize: "3rem" }}>INICIO</a>
               </Link>
             </li>
           </ul>
