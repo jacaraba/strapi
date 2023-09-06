@@ -1,0 +1,33 @@
+{
+  "kind": "collectionType",
+  "collectionName": "visitas",
+  "info": {
+    "singularName": "visita",
+    "pluralName": "visitas",
+    "displayName": "Visita",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {   
+    "vcrnomati": {
+      "type": "string"
+    },
+    "vcrdir": {
+      "type": "string"
+    },
+    "vcrradsol": {
+      "type": "string"
+    },
+    "barrio": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::barrio.barrio"
+    },
+    "slug": {
+      "type": "uid"
+    }
+  }
+}

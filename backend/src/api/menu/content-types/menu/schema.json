@@ -1,0 +1,26 @@
+{
+  "kind": "collectionType",
+  "collectionName": "menues",
+  "info": {
+    "singularName": "menu",
+    "pluralName": "menues",
+    "displayName": "Menu",
+    "name": "menu",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "name",
+      "required": true
+    }
+  }
+}

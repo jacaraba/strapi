@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "barrios",
+  "info": {
+    "singularName": "barrio",
+    "pluralName": "barrios",
+    "displayName": "Barrio",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "VcrIdBarVE": {
+      "type": "string"
+    },
+    "VcrBarVer": {
+      "type": "string"
+    },
+    "VcrIdCom": {
+      "type": "string"
+    }
+  }
+}

@@ -4,13 +4,14 @@
   "info": {
     "singularName": "category",
     "pluralName": "categories",
-    "displayName": "Category",
-    "name": "category"
+    "displayName": "Categoria",
+    "name": "category",
+    "description": ""
   },
   "options": {
-    "increments": true,
-    "timestamps": true
+    "draftAndPublish": false
   },
+  "pluginOptions": {},
   "attributes": {
     "name": {
       "type": "string",
@@ -25,6 +26,12 @@
       "type": "relation",
       "relation": "oneToMany",
       "target": "api::article.article",
+      "mappedBy": "category"
+    },
+    "plans": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::plan.plan",
       "mappedBy": "category"
     }
   }

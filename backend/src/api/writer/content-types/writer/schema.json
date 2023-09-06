@@ -4,7 +4,7 @@
   "info": {
     "singularName": "writer",
     "pluralName": "writers",
-    "displayName": "Author",
+    "displayName": "Autor",
     "name": "writer",
     "description": ""
   },
@@ -34,6 +34,12 @@
     },
     "email": {
       "type": "string"
+    },
+    "plans": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::plan.plan",
+      "mappedBy": "author"
     }
   }
 }
