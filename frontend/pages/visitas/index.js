@@ -27,7 +27,7 @@ const Formulario = ({ visitas, barrios }) => {
     }));
     setFormData(prevData => ({
       ...prevData,
-      vcrbarrio: selectedData.attributes.barrio.data.id
+      vcrbarrio: selectedData.attributes.barrio.data.attributes.VcrIdBarVE
     }));
   };
 
@@ -104,10 +104,19 @@ const Formulario = ({ visitas, barrios }) => {
           </label>
           <label>
             VCRBAR:
-            <select id="vcrbarrio" name="vcrbarrio" >
+            <input
+              type="text"
+              name="vcrbarrio"
+              value={formData.vcrbarrio}
+              onChange={handleChange}
+            />
+          </label>
+          <label>
+            VCRBAR:
+            <select id="vcrbarrio" name="vcrbarrio" onChange={handleChange}>
               {barrios.map((opcion) => (
-                <option key={opcion.id}  value={opcion.id}>
-                  {formData.vcrbarrio}
+                <option key={opcion.id}  value={formData.vcrbarrio}>
+                  {opcion.attributes.VcrIdBarVE}
                 </option>
               ))}
             </select>
