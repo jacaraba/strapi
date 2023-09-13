@@ -11,7 +11,7 @@
     "draftAndPublish": true
   },
   "pluginOptions": {},
-  "attributes": {   
+  "attributes": {
     "vcrnomati": {
       "type": "string"
     },

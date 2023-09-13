@@ -1,144 +1,54 @@
 import { useState } from 'react';
+import { useRouter } from 'next/router';
+import Link from "next/link"
 import { fetchAPI } from "../../lib/api";
+import React from 'react';
 
-const Formulario = ({ visitas, barrios }) => {
-  const [formData, setFormData] = useState({
-    id: visitas[0].id,
-    vcrradsol: visitas[0].attributes.vcrradsol,
-    vcrnomati: visitas[0].attributes.vcrnomati,
-    vcrdir: visitas[0].attributes.vcrdir,
-    vcrbarrio: visitas[0].attributes.barrio.data.attributes.VcrIdBarVE,
-  });
 
-  const handleChange = (e) => {
-    setFormData((prevData) => ({
-      ...prevData,
-      [e.target.name]: e.target.value,
-    }));
-  };
+export default function Home({visitas}) {
 
-  const handleChangeRegistro = (e) => {
-    const selectedData = visitas.find(item => item.id == e.target.value);
-    
-    setFormData(selectedData.attributes);
-    setFormData(prevData => ({
-      ...prevData,
-      id: selectedData.id
-    }));
-    setFormData(prevData => ({
-      ...prevData,
-      vcrbarrio: selectedData.attributes.barrio.data.attributes.VcrIdBarVE
-    }));
-  };
+  const [name, setName] = useState('1');
 
-  const handleSubmit = async (e) => {
+  const router = useRouter();
+  visitas[0].attributes.slug = visitas[0].id
+
+  const handleSubmit = (e) => {
     e.preventDefault();
-    try {
-      const visitas = await fetch(`http://localhost:1337/api/visitas/${formData.id}`, {
-        method: 'PUT',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({ visitas: formData }),
-      });
-      if (visitas.ok) {
-        console.log('¡Solicitud PUT enviada con éxito!');
-        // Realiza alguna acción adicional después de enviar la solicitud PUT
-      } else {
-        console.log('Error al enviar la solicitud PUT');
-      }
-    } catch (error) {
-      console.log(error);
-    }
+    // Redirige a la página /nombre con el valor del nombre como parámetro
+    router.push(`visita/${name}`);
   };
 
   return (
-    <>
-      <div>
-        <select onChange={handleChangeRegistro}>
-          {visitas.map((item) => (
-            <option key={item.id} value={item.id}>
-              {item.id}-{item.attributes.vcrnomati}
+    <div>
+      <h2>Ingresa Radicado</h2>
+      <form onSubmit={handleSubmit}>
+       
+        <label htmlFor="name">Radicacion: </label>
+        <select name="name" 
+          onChange={(e) => setName(e.target.value)}>
+          {visitas.map((visita) => (
+            <option key={visita.id} value={visita.id}>
+              {visita.attributes.vcrradsol} - {visita.attributes.vcrnomati}
             </option>
           ))}
         </select>
-      </div>
-      <div>
-        <form onSubmit={handleSubmit}>
-          <label>
-            ID:
-            <input
-              type="text"
-              name="id"
-              value={formData.id}
-              onChange={handleChange}
-            />
-            <br />
-          </label>
-          <label>
-            VCRRADSOL:
-            <input
-              type="text"
-              name="vcrradsol"
-              value={formData.vcrradsol}
-              onChange={handleChange}
-            />
-          </label>
-          <label>
-            VCRNOMATI:
-            <input
-              type="text"
-              name="vcrnomati"
-              value={formData.vcrnomati}
-              onChange={handleChange}
-            />
-          </label>
-          <label>
-            VCRDIR:
-            <input
-              type="text"
-              name="vcrdir"
-              value={formData.vcrdir}
-              onChange={handleChange}
-            />
-          </label>
-          <label>
-            VCRBAR:
-            <input
-              type="text"
-              name="vcrbarrio"
-              value={formData.vcrbarrio}
-              onChange={handleChange}
-            />
-          </label>
-          <label>
-            VCRBAR:
-            <select id="vcrbarrio" name="vcrbarrio" onChange={handleChange}>
-              {barrios.map((opcion) => (
-                <option key={opcion.id}  value={formData.vcrbarrio}>
-                  {opcion.attributes.VcrIdBarVE}
-                </option>
-              ))}
-            </select>
-            
-          </label>
-          <button type="submit">Guardar cambios</button>
-        </form>
-      </div>
-    </>
+        
+        <button type="submit">Buscar Visita</button>
+        <br />
+        <Link href="/visita/nueva"><a>  Crear Nueva Visita  </a></Link>
+        
+      </form>
+    </div>
   )
-};
+}
+
 
 export async function getStaticProps() {
-  const [visitas, barrios ] = await Promise.all(
-    [fetchAPI("/visitas", { populate: "*" }),
-    fetchAPI("/barrios", { populate: "*" })]
-    )
+  const [visitas] = await Promise.all([fetchAPI("/visitas", { populate: "*" })]);
 
   return {
     props: {
       visitas: visitas.data,
-      barrios: barrios.data,
     },
     revalidate: 1,
   };
@@ -146,4 +56,5 @@ export async function getStaticProps() {
 
 
 
-export default Formulario;
+
+
