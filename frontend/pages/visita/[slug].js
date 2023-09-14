@@ -9,6 +9,7 @@ const handleFormSubmit = async (values) => {
   values.barrio = [values.barrio];
 
   try {
+    
     const visitas = await fetch(getStrapiURL(`/api/visitas/${values.id}`), {
       method: 'PUT',
       headers: {
