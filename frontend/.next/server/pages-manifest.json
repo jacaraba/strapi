@@ -2,6 +2,8 @@
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
   "/_error": "pages/_error.js",
+  "/": "pages/index.js",
   "/visitas": "pages/visitas.js",
-  "/visita/[slug]": "pages/visita/[slug].js"
+  "/visita/[slug]": "pages/visita/[slug].js",
+  "/visita/nueva": "pages/visita/nueva.js"
 }
