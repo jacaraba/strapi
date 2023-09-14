@@ -1,4 +1,4 @@
-import { fetchAPI } from "../../../lib/api";
+import { getStrapiURL , fetchAPI } from "../../../lib/api";
 import React from 'react';
 import Link from "next/link"
 import { Formik, Field, Form, ErrorMessage } from 'formik';
@@ -7,9 +7,10 @@ import * as Yup from 'yup';
 const handleFormSubmit = async (values) => {
 
   values.barrio = [parseInt(values.barrio)];
+  console.log(JSON.stringify(values, null, 2))
 
   try {
-    const visitas = await fetch(`http://localhost:1337/api/visitas`, {
+    const visitas = await fetch(getStrapiURL("/api/visitas"), {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
@@ -26,7 +27,7 @@ const handleFormSubmit = async (values) => {
     console.log(error);
   }
 
-  alert(JSON.stringify(values, null, 2));
+ // alert(JSON.stringify(values, null, 2));
 
 };
 
@@ -43,6 +44,8 @@ const SignupForm = ({ visitas, barrios }) => {
   }
   // barrionuevo.attributes.id = "Nueva Visita"
   barrionuevo.attributes.barrio = 500;
+
+  delete barrionuevo.attributes.slug
   delete barrionuevo.attributes.createdAt
   delete barrionuevo.attributes.updatedAt
   delete barrionuevo.attributes.publishedAt
@@ -67,15 +70,7 @@ const SignupForm = ({ visitas, barrios }) => {
     >
       {formik => (
         <form onSubmit={formik.handleSubmit} style={{ backgroundColor: 'lightblue', padding: '20px' }}>
-          <label htmlFor="id">Id: </label>
-          <input
-            id="id"
-            type="text"
-            {...formik.getFieldProps('id')}
-          />
-          {formik.touched.id && formik.errors.id ? (
-            <div>{formik.errors.id}</div>
-          ) : null}<br />
+          
           <label htmlFor="vcrradsol">Radicado: </label>
           <input
             id="vcrradsol"
@@ -103,7 +98,7 @@ const SignupForm = ({ visitas, barrios }) => {
             ))}
           </Field>
           <br />
-          <button type="submit" disabled={formik.isSubmitting}> Modificar </button>
+          <button type="submit" disabled={formik.isSubmitting}> Guardar </button>
           <Link href="/visitas"><a>  Cancelar  </a></Link>
 
         </form>

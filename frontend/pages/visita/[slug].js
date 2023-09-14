@@ -1,4 +1,4 @@
-import { fetchAPI } from "../../lib/api";
+import { getStrapiURL , fetchAPI } from "../../lib/api";
 import React from 'react';
 import Link from "next/link"
 import { Formik, Field, Form, ErrorMessage } from 'formik';
@@ -9,7 +9,7 @@ const handleFormSubmit = async (values) => {
   values.barrio = [values.barrio];
 
   try {
-    const visitas = await fetch(`http://localhost:1337/api/visitas/${values.id}`, {
+    const visitas = await fetch(getStrapiURL(`/api/visitas/${values.id}`), {
       method: 'PUT',
       headers: {
         'Content-Type': 'application/json',
