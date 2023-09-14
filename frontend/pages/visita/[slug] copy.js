@@ -10,7 +10,7 @@ const handleFormSubmit = async (values) => {
 
   try {
     
-    const visitas = await fetch(getStrapiURL(`http://node170096-strapi.sh1.hidora.net:11238/api/visitas/${values.id}`), {
+    const visitas = await fetch(getStrapiURL(`/api/visitas/${values.id}`), {
       method: 'PUT',
       headers: {
         'Content-Type': 'application/json',

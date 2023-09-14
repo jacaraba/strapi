@@ -1,4 +1,4 @@
-import { getStrapiURL , fetchAPI } from "../../lib/api";
+import { getStrapiURL , fetchAPI } from "../../../lib/api";
 import React from 'react';
 import Link from "next/link"
 import { Formik, Field, Form, ErrorMessage } from 'formik';
@@ -6,28 +6,28 @@ import * as Yup from 'yup';
 
 const handleFormSubmit = async (values) => {
 
-  values.barrio = [values.barrio];
+  values.barrio = [parseInt(values.barrio)];
+  console.log(JSON.stringify(values, null, 2))
 
   try {
-    
-    const visitas = await fetch(getStrapiURL(`http://node170096-strapi.sh1.hidora.net:11238/api/visitas/${values.id}`), {
-      method: 'PUT',
+    const visitas = await fetch(getStrapiURL("/api/visitas"), {
+      method: 'POST',
       headers: {
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({ data: values }),
     });
     if (visitas.ok) {
-      console.log('¡Solicitud PUT enviada con éxito!');
+      console.log('¡Solicitud POST enviada con éxito!');
       // Realiza alguna acción adicional después de enviar la solicitud PUT
     } else {
-      console.log('Error al enviar la solicitud PUT');
+      console.log('Error al enviar la solicitud POST');
     }
   } catch (error) {
     console.log(error);
   }
 
-  alert(JSON.stringify(values, null, 2));
+ // alert(JSON.stringify(values, null, 2));
 
 };
 
@@ -35,13 +35,24 @@ const SignupForm = ({ visitas, barrios }) => {
   
   const barrionuevo = JSON.parse(JSON.stringify(visitas));
   delete barrionuevo.attributes.barrio
-  barrionuevo.attributes.id = visitas.id
-  barrionuevo.attributes.barrio = visitas.attributes.barrio.data.id;
+  delete barrionuevo.id
 
-/* 
+  for (const clave in barrionuevo.attributes) {
+    if (barrionuevo.attributes.hasOwnProperty(clave)) {
+      barrionuevo.attributes[clave] = "";
+    }
+  }
+  // barrionuevo.attributes.id = "Nueva Visita"
+  barrionuevo.attributes.barrio = 500;
+
+  delete barrionuevo.attributes.slug
+  delete barrionuevo.attributes.createdAt
+  delete barrionuevo.attributes.updatedAt
+  delete barrionuevo.attributes.publishedAt
+
  console.log(JSON.stringify(barrionuevo, null, 2));   
- console.log(JSON.stringify(visitas.attributes.barrio.data, null, 2));  
- console.log(visitas.attributes.barrio.data.id); */
+ // console.log(JSON.stringify(visitas.attributes.barrio.data, null, 2));  
+ // console.log(visitas.attributes.barrio.data.id); 
 
 
   return (
@@ -87,7 +98,7 @@ const SignupForm = ({ visitas, barrios }) => {
             ))}
           </Field>
           <br />
-          <button type="submit" disabled={formik.isSubmitting}> Modificar </button>
+          <button type="submit" disabled={formik.isSubmitting}> Guardar </button>
           <Link href="/visitas"><a>  Cancelar  </a></Link>
 
         </form>
@@ -96,30 +107,16 @@ const SignupForm = ({ visitas, barrios }) => {
   );
 };
 
-
-export async function getStaticPaths() {
-  const categoriesRes = await fetchAPI("/visitas", { fields: ["id"] })
-
-  return {
-    paths: categoriesRes.data.map((visita) => ({
-      params: {
-        slug: visita.id.toString(10),
-      },
-    })),
-    fallback: false,
-  }
-}
-
 export async function getStaticProps({ params }) {
   const [visitas, barrios ] = await Promise.all([
-    fetchAPI("/visitas", { populate: "*", filters: { id: params.slug}}),
+    fetchAPI("/visitas", { populate: "*", filters: { id: 1}}),
     fetchAPI("/barrios", { populate: "*", pagination: { start: 0, limit: 500 }, sort: ['VcrBarVer']})
   ]);
 
   return {
     props: {
       visitas: visitas.data[0],
-      barrios: barrios.data
+      barrios: barrios.data,
     },
     revalidate: 1,
   };
