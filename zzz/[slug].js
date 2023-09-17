@@ -9,6 +9,7 @@ const handleFormSubmit = async (values) => {
   values.barrio = [values.barrio];
 
   try {
+    
     const visitas = await fetch(`http://node170096-strapi.sh1.hidora.net:11238/api/visitas/${values.id}`, {
       method: 'PUT',
       headers: {
@@ -58,15 +59,7 @@ const SignupForm = ({ visitas, barrios }) => {
     >
       {formik => (
         <form onSubmit={formik.handleSubmit} style={{ backgroundColor: 'lightblue', padding: '20px' }}>
-          {/* <label htmlFor="id">Id: </label>
-          <input
-            id="id"
-            type="text"
-            {...formik.getFieldProps('id')}
-          />
-          {formik.touched.id && formik.errors.id ? (
-            <div>{formik.errors.id}</div>
-          ) : null}<br /> */}
+          
           <label htmlFor="vcrradsol">Radicado: </label>
           <input
             id="vcrradsol"

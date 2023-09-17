@@ -10,8 +10,7 @@ export default function Home({visitas}) {
   const [name, setName] = useState('1');
 
   const router = useRouter();
-  visitas[0].attributes.slug = visitas[0].id
-
+  
   const handleSubmit = (e) => {
     e.preventDefault();
     // Redirige a la página /nombre con el valor del nombre como parámetro
@@ -53,8 +52,3 @@ export async function getStaticProps() {
     revalidate: 1,
   };
 }
-
-
-
-
-
