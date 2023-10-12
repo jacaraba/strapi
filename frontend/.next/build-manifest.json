@@ -24,15 +24,15 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/visita/nueva": [
+    "/article/[slug]": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/visita/nueva.js"
+      "static/chunks/pages/article/[slug].js"
     ],
-    "/visitas": [
+    "/planes": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/visitas.js"
+      "static/chunks/pages/planes.js"
     ]
   },
   "ampFirstPages": []

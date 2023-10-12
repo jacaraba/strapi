@@ -1,0 +1,965 @@
+1,Conjunto Residencial Torres de Pijao I Carrera 31 # 2 C 33 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+2,Conjunto Residencial Torres de Pijao I Torre A Carrera 31 # 2 C 33 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+3,Conjunto Residencial Torres de Pijao I Torre B Carrera 31 # 2 C 33 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+4,JavesaludFundacion Consultorios Odontologicos Universidad Javeriana  COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+5,Zaguan de las Florez Pta Electrica Vehicular Calle 67N # 4B - 77 COLOMBIA Valle del cauca CALI ,3.49252,-76.52021,2
+
+6,Zaguan de las Florez Torre A Calle 67N # 4B - 77 COLOMBIA Valle del cauca CALI ,3.49188,-76.52017,2
+
+7,Zaguan de las Flores Torrez B Calle 67N # 4B - 77 COLOMBIA Valle del cauca CALI ,3.49252,-76.52021,2
+
+8,Zaguan de las Florez Torre C Calle 67N # 4B - 77 COLOMBIA Valle del cauca CALI ,3.49252,-76.52021,2
+
+9,Conjunto Residencial Torrees de San Joaquin P. Vehicular Calle 17 # 86-82 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+10,Conjunto Residencial Torrees de San Joaquin Torre F Calle 17 # 86-82 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+11,Conjunto Residencial Torrees de San Joaquin Torre E Calle 17 # 86-82 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+12,Conjunto Residencial Torrees de San Joaquin Torre D Calle 17 # 86-82 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+13,Conjunto Residencial Torrees de San Joaquin Torre C Calle 17 # 86-82 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+14,Conjunto Residencial Torrees de San Joaquin Torre B Calle 17 # 86-82 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+15,Conjunto Residencial Torrees de San Joaquin Torre A Calle 17 # 86-82 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+16,Conjunto Residencial Firenze Puerta Vehicular Carrera 86 #25-83 COLOMBIA Valle del cauca CALI ,3.37969,-76.52392,17
+
+17,Conjunto Residencial Firenze Puerta Vehicular Torre 1 Carrera 86 #25-83 COLOMBIA Valle del cauca CALI ,3.37979,-76.52407,17
+
+18,Conjunto Residencial Firenze Puerta Vehicular Torre 2 Carrera 86 #25-83 COLOMBIA Valle del cauca CALI ,3.37979,-76.52407,17
+
+19,Conjunto Residencial Firenze Puerta Vehicular Torre 3 Carrera 86 #25-83 COLOMBIA Valle del cauca CALI ,3.37979,-76.52407,17
+
+20,Conjunto Residencial Firenze Puerta Vehicular Torre 4 Carrera 86 #25-83 COLOMBIA Valle del cauca CALI ,3.37979,-76.52407,17
+
+21,Edificio Quadratto Ascensores Carrera 36B #1 Oeste - 25 COLOMBIA Valle del cauca CALI ,3.4327,-76.5502,19
+
+22,Edificio Quadratto Puerta Vehicular Carrera 36B #1 Oeste - 25 COLOMBIA Valle del cauca CALI ,3.4327,-76.5502,19
+
+23,Edificio San Mateo Ascensor Avenida 7N # 25N - 125 COLOMBIA Valle del cauca CALI ,3.46886,-76.53175,2
+
+24,Edificio San Mateo Puerta Vehicular 1 Avenida 7N # 25N - 125 COLOMBIA Valle del cauca CALI ,3.46886,-76.53175,2
+
+25,Edificio San Mateo Puerta Vehicular 2 Avenida 7N # 25N - 125 COLOMBIA Valle del cauca CALI ,3.46886,-76.53175,2
+
+26,122 de la circunvalar Ascensores Calle 1Oeste #36B- 01 COLOMBIA Valle del cauca CALI ,3.4327,-76.54953,19
+
+27,122 de la circunvalar Puerta Vehicular Calle 1Oeste #36B- 01 COLOMBIA Valle del cauca CALI ,3.4327,-76.54953,19
+
+28,Centro Comercial Caicedo Plaza 1 Carrera 6 #12-35 COLOMBIA Valle del cauca CALI ,3.45103,-76.53143,3
+
+29,Centro Comercial Caicedo Plaza 2 Calle 12 # 5-75 COLOMBIA Valle del cauca CALI ,3.45103,-76.53217,3
+
+30,Edificio Victoria PH Carrera 6 # 11-67 COLOMBIA Valle del cauca CALI ,3.45074,-76.53203,3
+
+31,Edificio Valher PH Calle 11 # 5-61 COLOMBIA Valle del cauca CALI ,3.45068,-76.53242,3
+
+32,Edificio Rosa Isabel Carrera 6 # 8-67 COLOMBIA Valle del cauca CALI ,3.44969,-76.53416,3
+
+33,Centro Cultural Comfandi Calle 8 # 6-23 COLOMBIA Valle del cauca CALI ,3.44894,-76.53461,3
+
+34,Edificio Movistar Carrera 6 # 10-20 COLOMBIA Valle del cauca CALI ,3.45007,-76.53309,3
+
+35,Edificio Bic Bancolombia Calle 11 # 6-24 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+36,Centro Comercial La Casona Calle 13 # 5-60 COLOMBIA Valle del cauca CALI ,3.45112,-76.53137,3
+
+37,Condominio Bancolombia Calle 11 # 5-54 COLOMBIA Valle del cauca CALI ,3.45071,-76.53267,3
+
+38,Cojunto Resisdencial Torres de San Juan Puerta de Ingreso Calle 6 Norte # 2N-120 COLOMBIA Valle del cauca CALI ,3.45364,-76.53805,2
+
+39,Conjunto Residencial Torres de San Juan Puerta de Salida Calle 6 Norte # 2N-120 COLOMBIA Valle del cauca CALI ,3.45364,-76.53805,2
+
+40,Conjunto Residencial Torres de San Juan Torre A Calle 6 Norte # 2N-120 COLOMBIA Valle del cauca CALI ,3.45352,-76.53815,2
+
+41,Conjunto Residencial Torres de San Juan Torre B Calle 6 Norte # 2N-120 COLOMBIA Valle del cauca CALI ,3.45364,-76.53805,2
+
+42,Hotel Santiago de Cali Carrera 6 # 11-48 COLOMBIA Valle del cauca CALI ,3.45045,-76.5321,3
+
+43,Edificio Comercial Centro Elite Torre 1 Calle 14 # 30 - 52 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+44,Edificio Comercial Centro Elite Torre 2 Calle 14 # 30 - 52 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+45,Edificio Comercial Centro Elite Torre Ascensor Panoramico Calle 14 # 30 - 52 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+46,Edificio Comercial Centro Elite Escalera 1 Calle 14 # 30 - 52 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+47,Edificio Comercial Centro Elite Escalera 2 Calle 14 # 30 - 52 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+48,Edificio Comercial Centro Elite Escalera 3 Calle 14 # 30 - 52 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+49,Edificio Comercial Centro Elite Escalera 4 Calle 14 # 30 - 52 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+50,Edificio Panderisco Ascensores Calle 8 Oeste # 36 -81 COLOMBIA Valle del cauca CALI ,3.43367,-76.54963,19
+
+51,Edificio Panderisco Puerta vehicular Sotano Calle 8 Oeste # 36 -81 COLOMBIA Valle del cauca CALI ,3.43367,-76.54963,19
+
+52,Edificio Panderisco Puerta Vehicular semisotano Calle 8 Oeste # 36 -81 COLOMBIA Valle del cauca CALI ,3.43367,-76.54963,19
+
+53,Edificio Belle View Ascensores Calle 8 Oeste # 36 -71 COLOMBIA Valle del cauca CALI ,3.43389,-76.54956,19
+
+54,Edificio Belle View Puerta Vehicular Calle 8 Oeste # 36 -71 COLOMBIA Valle del cauca CALI ,3.43389,-76.54956,19
+
+55,Conjunto Residencial Rincon de la Flora Calle 32 A Norte # 2-165 COLOMBIA Valle del cauca CALI ,3.46744,-76.52042,2
+
+56,Conjunto Residencial Rincon de la Flora Torre A-1 Calle 32 A Norte # 2-165 COLOMBIA Valle del cauca CALI ,3.46834,-76.52091,2
+
+57,Conjunto Residencial Rincon de la Flora Torre A-2 Calle 32 A Norte # 2-165 COLOMBIA Valle del cauca CALI ,3.46744,-76.52042,2
+
+58,Conjunto Residencial Rincon de la Flora Torre B-1 Calle 32 A Norte # 2-165 COLOMBIA Valle del cauca CALI ,3.46834,-76.52091,2
+
+59,Conjunto Residencial Rincon de la Flora Torre B-2 Calle 32 A Norte # 2-165 COLOMBIA Valle del cauca CALI ,3.46744,-76.52042,2
+
+60,Vida Centro Profesional  Torre 3 Escalera 1 Calle 5 D # 38 A 35 COLOMBIA Valle del cauca CALI ,3.42277,-76.54223,19
+
+61,Vida Centro Profesional  Torre 3 Escalera 2 Calle 5 D # 38 A 35 COLOMBIA Valle del cauca CALI ,3.42277,-76.54223,19
+
+62,Vida Centro Profesional Torre 1-1 Calle 5 D # 38 A 35 COLOMBIA Valle del cauca CALI ,3.42277,-76.54223,19
+
+63,Vida Centro Profesional Torre 1-2 Calle 5 D # 38 A 35 COLOMBIA Valle del cauca CALI ,3.42277,-76.54223,19
+
+64,Vida Centro Profesional Torre 1-3 Calle 5 D # 38 A 35 COLOMBIA Valle del cauca CALI ,3.42277,-76.54223,19
+
+65,Vida Centro Profesional Torre 2-6 Calle 5 D # 38 A 35 COLOMBIA Valle del cauca CALI ,3.42277,-76.54223,19
+
+66,Vida Centro Profesional Torre 2-7 Calle 5 D # 38 A 35 COLOMBIA Valle del cauca CALI ,3.42277,-76.54223,19
+
+67,Vida Centro Profesional Torre 3-10 Calle 5 D # 38 A 35 COLOMBIA Valle del cauca CALI ,3.42277,-76.54223,19
+
+68,Vida Centro Profesional Torre 3-11 Calle 5 D # 38 A 35 COLOMBIA Valle del cauca CALI ,3.42277,-76.54223,19
+
+69,C.R La Siembra Pta. Electrica Vehicular Carrera 85C # 14 -116 COLOMBIA Valle del cauca CALI ,3.3805,-76.5309,17
+
+70,C.R La Siembra  Torre 1 1 Carrera 85C # 14 -116 COLOMBIA Valle del cauca CALI ,3.38063,-76.53217,17
+
+71,C.R La Siembra Torre 2 Carrera 85C # 14 -116 COLOMBIA Valle del cauca CALI ,3.38063,-76.53217,17
+
+72,C.R La Siembra Torre 3 Carrera 85C # 14 -116 COLOMBIA Valle del cauca CALI ,3.38063,-76.53217,17
+
+73,C.R La Siembra Torre 4 Carrera 85C # 14 -116 COLOMBIA Valle del cauca CALI ,3.38063,-76.53217,17
+
+74,Edificio Joaquin de Caycedo calle 8 # 5- 15 COLOMBIA Valle del cauca CALI ,3.45006,-76.53489,3
+
+75,Edificio Bolsa de Occidente - puerta Carrera 5 # 4-40 COLOMBIA Valle del cauca CALI ,3.45094,-76.53369,3
+
+76,Edificio Bolsa de Occidente - ascensores Carrera 5 # 4-40 COLOMBIA Valle del cauca CALI ,3.45094,-76.53369,3
+
+77,Centro Comercial Santiago Torre A P.H Calle 30 norte # 2 BN 42 COLOMBIA Valle del cauca CALI ,3.46623,-76.52129,2
+
+78,Centro Comercial Santiago Torre B P.H Calle 30 norte # 2 BN 42 COLOMBIA Valle del cauca CALI ,3.47123,-76.52646,2
+
+79,Apartahotel Colombia Torre A Calle 31 Norte # 2 bis 48 COLOMBIA Valle del cauca CALI ,3.46663,-76.52083,2
+
+80,Apartahotel Colombia Torre B Calle 31 Norte # 2 bis 48 COLOMBIA Valle del cauca CALI ,3.4655,-76.52056,2
+
+81,Hotel El Gran Terminal Avenida 2 BN # 31 A 91 COLOMBIA Valle del cauca CALI ,3.4665,-76.52052,2
+
+82,Centro Comercial La Pasarela Torre 1 Escalera Bajando Avenida 5 Anorte # 23 DN 68 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+83,Centro Comercial La Pasarela Torre 1 Escalera Subiendo Avenida 5 Anorte # 23 DN 68 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+84,Centro Comercial La Pasarela Parqueadero 2 Avenida 5 Anorte # 23 DN 68 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+85,Centro Comercial La Pasarela Parqueadero 1 Avenida 5 Anorte # 23 DN 68 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+86,Centro Comercial La Pasarela Torre 1-A Avenida 5 Anorte # 23 DN 68 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+87,Centro Comercial La Pasarela Torre 2 Avenida 5 Anorte # 23 DN 68 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+88,Codere Colombia Sede Norte Pasarela Avenida 5 Norte # 23 DN 10 COLOMBIA Valle del cauca CALI ,3.46666,-76.52405,2
+
+89,Edificio Justiniano Gonzalez Garcia Calle 23 D # 5 N 33 COLOMBIA Valle del cauca CALI ,3.46497,-76.52865,2
+
+90,Instituto Jose Antonio Camacho Avenida 3 AN # 23 CN 84 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+91,Edificio Nabusimake Ascensores Calle 8 Oeste #36-91 COLOMBIA Valle del cauca CALI ,3.43351,-76.55008,19
+
+92,Edificio Nabusimake Puerta Vehicular SS Calle 8 Oeste #36-91 COLOMBIA Valle del cauca CALI ,3.43351,-76.55008,19
+
+93,Edificio Nabusimake Puerta Vehicular S�tano Calle 8 Oeste #36-91 COLOMBIA Valle del cauca CALI ,3.43351,-76.55008,19
+
+94,Edificio Sulay Torre A Carrera 25 Oeste # 6-120 COLOMBIA Valle del cauca CALI ,3.44025,-76.547,19
+
+95,Edificio Sulay Torre B Carrera 25 Oeste # 6-120 COLOMBIA Valle del cauca CALI ,3.44036,-76.54715,19
+
+96,Edificio Sulay Puerta Vehicular Carrera 25 Oeste # 6-120 COLOMBIA Valle del cauca CALI ,3.44036,-76.54715,19
+
+97,Centro Financiero La Ermita Ph Torre 1 Carrera 3 # 12 - 30 COLOMBIA Valle del cauca CALI ,3.45349,-76.53177,3
+
+98,Centro Financiero La Ermita Ph Torre 2 Carrera 3 # 12 - 30 COLOMBIA Valle del cauca CALI ,3.45349,-76.53177,3
+
+99,Centro Financiero La Ermita Ph Torre 3 Carrera 3 # 12 - 30 COLOMBIA Valle del cauca CALI ,3.45349,-76.53177,3
+
+100,Conjunto Residencial Altos de Pinares Torre A Carrera 68 #13B - 61 COLOMBIA Valle del cauca CALI ,3.39626,-76.53461,17
+
+101,Conjunto Residencial Altos de Pinares Torre B Carrera 68 #13B - 61 COLOMBIA Valle del cauca CALI ,3.39626,-76.53461,17
+
+102,Conjunto Residencial Altos de Pinares Torre C Carrera 68 #13B - 61 COLOMBIA Valle del cauca CALI ,3.39626,-76.53461,17
+
+103,Conjunto Residencial Altos de Pinares Torre D Carrera 68 #13B - 61 COLOMBIA Valle del cauca CALI ,3.39626,-76.53461,17
+
+104,Conjunto Residencial Altos de Pinares Torre E Carrera 68 #13B - 61 COLOMBIA Valle del cauca CALI ,3.39626,-76.53461,17
+
+105,Conjunto Residencial Altos de Pinares Torre F Carrera 68 #13B - 61 COLOMBIA Valle del cauca CALI ,3.39626,-76.53461,17
+
+106,Conjunto Residencial Altos de Pinares Puerta Vehicular Terraza Carrera 68 #13B - 61 COLOMBIA Valle del cauca CALI ,3.39626,-76.53461,17
+
+107,Conjunto Residencial Altos de Pinares Puerta Vehicular S�tano Carrera 68 #13B - 61 COLOMBIA Valle del cauca CALI ,3.39654,-76.53437,17
+
+108,Conjunto Residencial Maria Fernanda Torre A Derecho de Petici�n Calle 4 # 37 - 30 COLOMBIA Valle del cauca CALI ,3.42827,-76.5485,19
+
+109,Conjunto Residencial Maria Fernanda Torre B Derecho de Petici�n Calle 4 # 37 - 30 COLOMBIA Valle del cauca CALI ,3.42827,-76.5485,19
+
+110,Conjunto Residencial Maria Fernanda Puerta Vehicular Derecho de Petici�n Calle 4 # 37 - 30 COLOMBIA Valle del cauca CALI ,3.42827,-76.5485,19
+
+111,Conjunto Residencial Lomas de San Fernado Carrera 37A # 3bis - 19 COLOMBIA Valle del cauca CALI ,3.42796,-76.54904,19
+
+112,Conjunto Residencial Lomas de San Fernado Carrera 37A # 3bis - 19 COLOMBIA Valle del cauca CALI ,3.42796,-76.54904,19
+
+113,Conjunto Residencial Lomas de San Fernado Carrera 37A # 3bis - 19 COLOMBIA Valle del cauca CALI ,3.42796,-76.54904,19
+
+114,Home Center Santa M�nica Av 6a norte #35-00 COLOMBIA Valle del cauca CALI ,3.47344,-76.52708,2
+
+115,Home Center Santa M�nica Av 6a norte #35-00 COLOMBIA Valle del cauca CALI ,3.47344,-76.52708,2
+
+116,Home Center Santa M�nica Av 6a norte #35-00 COLOMBIA Valle del cauca CALI ,3.47344,-76.52708,2
+
+117,Falabella de Colombia WTC Cali- Muelle S�tano Calle 36 N # 6 a 65 COLOMBIA Valle del cauca CALI ,3.4743,-76.52772,2
+
+118,Falabella de Colombia WTC Cali- ascensores Calle 36 N # 6 a 65 COLOMBIA Valle del cauca CALI ,3.4743,-76.52772,2
+
+119,Falabella de Colombia WTC Cali- Escaleras piso 2- Calle 36 N # 6 a 65 COLOMBIA Valle del cauca CALI ,3.47439,-76.52796,2
+
+120,Falabella de Colombia WTC Cali - puertas piso 4 Calle 36 N # 6 a 65 COLOMBIA Valle del cauca CALI ,3.47439,-76.52796,2
+
+121,Falabella de Colombia WTC Cali - Escaleras piso 1 Calle 36 N # 6 a 65 COLOMBIA Valle del cauca CALI ,3.47439,-76.52796,2
+
+122,Falabella de Colombia WTC Cali- Escaleras piso 3 Calle 36 N # 6 a 65 COLOMBIA Valle del cauca CALI ,3.47439,-76.52796,2
+
+123,Falabella de Colombia WTC Cali - puertas piso 1- Calle 36 N # 6 a 65 COLOMBIA Valle del cauca CALI ,3.47439,-76.52796,2
+
+124,Falabella de Colombia WTC Cali- puertas piso 2- Calle 36 N # 6 a 65 COLOMBIA Valle del cauca CALI ,3.47439,-76.52796,2
+
+125,Falabella de Colombia WTC Cali - puertas piso 3- Calle 36 N # 6 a 65 COLOMBIA Valle del cauca CALI ,3.47439,-76.52796,2
+
+126,Falabella de Colombia WTC Cali - almac�n general- Calle 36 N # 6 a 65 COLOMBIA Valle del cauca CALI ,3.4743,-76.52772,2
+
+127,World Trade Center Cali- Pacific Mall - ascensor 6 Calle 36 N # 6 a 65 COLOMBIA Valle del cauca CALI ,3.47438,-76.52802,2
+
+128,World Trade Center Cali- Pacific Mall - ascensor 5 Calle 36 N # 6 a 65 COLOMBIA Valle del cauca CALI ,3.47438,-76.52802,2
+
+129,World Trade Center Cali- Pacific Mall - ascensor 4 Calle 36 N # 6 a 65 COLOMBIA Valle del cauca CALI ,3.47438,-76.52802,2
+
+130,World Trade Center Cali- Pacific Mall - ascensor 3 Calle 36 N # 6 a 65 COLOMBIA Valle del cauca CALI ,3.47438,-76.52802,2
+
+131,World Trade Center Cali- Pacific Mall - ascensor 2 Calle 36 N # 6 a 65 COLOMBIA Valle del cauca CALI ,3.47438,-76.52802,2
+
+132,World Trade Center Cali- Pacific Mall - ascensor 1 Calle 36 N # 6 a 65 COLOMBIA Valle del cauca CALI ,3.47438,-76.52802,2
+
+133,World Trade Center Cali- Pacific Mall - ascensor torreA Calle 36 N # 6 a 65 COLOMBIA Valle del cauca CALI ,3.47438,-76.52802,2
+
+134,World Trade Center Cali- Pacific Mall - ascensor carga 1 Calle 36 N # 6 a 65 COLOMBIA Valle del cauca CALI ,3.47438,-76.52802,2
+
+135,World Trade Center Cali- Pacific Mall - ascensor carga 2 Calle 36 N # 6 a 65 COLOMBIA Valle del cauca CALI ,3.47438,-76.52802,2
+
+136,World Trade Center Cali- Pacific Mall - escalera sotano 3 Calle 36 N # 6 a 65 COLOMBIA Valle del cauca CALI ,3.47438,-76.52802,2
+
+137,World Trade Center Cali- Pacific Mall - escalera sotano 2 Calle 36 N # 6 a 65 COLOMBIA Valle del cauca CALI ,3.47438,-76.52802,2
+
+138,World Trade Center Cali- Pacific Mall - escalera sotano 1 Calle 36 N # 6 a 65 COLOMBIA Valle del cauca CALI ,3.47438,-76.52802,2
+
+139,World Trade Center Cali- Pacific Mall - escalera piso 3 Calle 36 N # 6 a 65 COLOMBIA Valle del cauca CALI ,3.47438,-76.52802,2
+
+140,World Trade Center Cali- Pacific Mall - escalera piso 1 Calle 36 N # 6 a 65 COLOMBIA Valle del cauca CALI ,3.47438,-76.52802,2
+
+141,World Trade Center Cali- Pacific Mall - escalera piso 2 Calle 36 N # 6 a 65 COLOMBIA Valle del cauca CALI ,3.47438,-76.52802,2
+
+142,World Trade Center Cali- Pacific Mall - escalera piso 4 Calle 36 N # 6 a 65 COLOMBIA Valle del cauca CALI ,3.47438,-76.52802,2
+
+143,Edificio San Vicente P-H Avenida 2 CN # 24 N 175 COLOMBIA Valle del cauca CALI ,3.46521,-76.52663,2
+
+144,Apartahotel Deseos Entrada Carrera 8 # 41-38 COLOMBIA Valle del cauca CALI ,3.45304,-76.50576,8
+
+145,Apartahotel Deseos Salida Carrera 8 # 41-38 COLOMBIA Valle del cauca CALI ,3.45304,-76.50576,8
+
+146,Distribuciones Quirumed Entrada 1 Carrera 8 A # 42-17 COLOMBIA Valle del cauca CALI ,3.45251,-76.5055,8
+
+147,Distribuciones Quirumed Entrada 2 Carrera 8 A # 42-17 COLOMBIA Valle del cauca CALI ,3.45251,-76.5055,8
+
+148,Angiografia de Occidente S.A Carrera 8 # 49-76 COLOMBIA Valle del cauca CALI ,3.45586,-76.5269,3
+
+149,Conjunto Residencial Santa Maria de los Vientos ASC Carga Avenida 5B Norte # 58N-67 COLOMBIA Valle del cauca CALI ,3.49085,-76.52144,2
+
+150,Conjunto Residencial Santa Maria de los Vientos Torre 1 Avenida 5B Norte # 58N-67 COLOMBIA Valle del cauca CALI ,3.49085,-76.52144,2
+
+151,Conjunto Residencial Santa Maria de los Vientos Torre 2 Avenida 5B Norte # 58N-67 COLOMBIA Valle del cauca CALI ,3.49085,-76.52144,2
+
+152,Conjunto Residencial Santa Maria de los Vientos Torre 3 Avenida 5B Norte # 58N-67 COLOMBIA Valle del cauca CALI ,3.49085,-76.52144,2
+
+153,Conjunto Residencial Santa Maria de los Vientos Puerta 1 Avenida 5B Norte # 58N-67 COLOMBIA Valle del cauca CALI ,3.49085,-76.52144,2
+
+154,Conjunto Residencial Santa Maria de los Vientos Puerta 2 Avenida 5B Norte # 58N-67 COLOMBIA Valle del cauca CALI ,3.49085,-76.52144,2
+
+155,Cosmocentro Ciudadela Comercial Escalera 1 Sector la Perbola Calle 5 # 50 - 103 COLOMBIA Valle del cauca CALI ,3.41371,-76.54778,19
+
+156,Cosmocentro Ciudadela Comercial Escalera 2 Sector la Nacional Calle 5 # 50 - 103 COLOMBIA Valle del cauca CALI ,3.41371,-76.54778,19
+
+157,Cosmocentro Ciudadela Comercial Escalera 3 Sector la Nacional Calle 5 # 50 - 103 COLOMBIA Valle del cauca CALI ,3.41371,-76.54778,19
+
+158,Cosmocentro Ciudadela Comercial Escalera 4 Sector la Cineco Calle 5 # 50 - 103 COLOMBIA Valle del cauca CALI ,3.41371,-76.54778,19
+
+159,Cosmocentro Ciudadela Comercial Escalera 5 Sector la Cineco Calle 5 # 50 - 103 COLOMBIA Valle del cauca CALI ,3.41371,-76.54778,19
+
+160,Cosmocentro Ciudadela Comercial Escalera 6 Sector 360 instalacion Calle 5 # 50 - 103 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+161,Cosmocentro Ciudadela Comercial Escalera 7 Sector 360 Calle 5 # 50 - 103 COLOMBIA Valle del cauca CALI ,3.41371,-76.54778,19
+
+162,Cosmocentro Ciudadela Comercial Escalera 8 Sector 360 Calle 5 # 50 - 103 COLOMBIA Valle del cauca CALI ,3.41371,-76.54778,19
+
+163,Cosmocentro Ciudadela Comercial Escalera 9 Sector 360 Calle 5 # 50 - 103 COLOMBIA Valle del cauca CALI ,3.41371,-76.54778,19
+
+164,Cosmocentro Ciudadela Comercial Escalera 10 Sector 360 Calle 5 # 50 - 103 COLOMBIA Valle del cauca CALI ,3.41371,-76.54778,19
+
+165,Cosmocentro Ciudadela Comercial Escalera 11 Sector 360 Calle 5 # 50 - 103 COLOMBIA Valle del cauca CALI ,3.41371,-76.54778,19
+
+166,Cosmocentro Ciudadela Comercial Escalera 12 Sector 360 Calle 5 # 50 - 103 COLOMBIA Valle del cauca CALI ,3.41371,-76.54778,19
+
+167,Cosmocentro Ciudadela Comercial Escalera 13 Sector 360 Calle 5 # 50 - 103 COLOMBIA Valle del cauca CALI ,3.41371,-76.54778,19
+
+168,Cosmocentro Ciudadela Comercial Escalera 14 Sector 360 Calle 5 # 50 - 103 COLOMBIA Valle del cauca CALI ,3.41371,-76.54778,19
+
+169,Cosmocentro Ciudadela Comercial Escalera 15 Sector 360 Calle 5 # 50 - 103 COLOMBIA Valle del cauca CALI ,3.41371,-76.54778,19
+
+170,Cosmocentro Ciudadela Comercial Escalera 16 Sector 360 Calle 5 # 50 - 103 COLOMBIA Valle del cauca CALI ,3.41371,-76.54778,19
+
+171,Cosmocentro Ciudadela Comercial Escalera 17 Sector 360 Calle 5 # 50 - 103 COLOMBIA Valle del cauca CALI ,3.41371,-76.54778,19
+
+172,Cosmocentro Ciudadela Comercial Ascensor 1 Sector la Perbola  Calle 5 # 50 - 103 COLOMBIA Valle del cauca CALI ,3.41371,-76.54778,19
+
+173,Cosmocentro Ciudadela Comercial Ascensor 2 Sector la Perbola Calle 5 # 50 - 103 COLOMBIA Valle del cauca CALI ,3.41371,-76.54778,19
+
+174,Cosmocentro Ciudadela Comercial Ascensor 3 Sector la 14 Calle 5 # 50 - 103 COLOMBIA Valle del cauca CALI ,3.41392,-76.54754,19
+
+175,Cosmocentro Ciudadela Comercial Ascensor 4 Sector Calle 5 Calle 5 # 50 - 103 COLOMBIA Valle del cauca CALI ,3.41371,-76.54778,19
+
+176,Cosmocentro Ciudadela Comercial Ascensor 5 Sector cineco Calle 5 # 50 - 103 COLOMBIA Valle del cauca CALI ,3.41371,-76.54778,19
+
+177,Cosmocentro Ciudadela Comercial Ascensor 6 Sector Monta Cargas  Calle 5 # 50 - 103 COLOMBIA Valle del cauca CALI ,3.41371,-76.54778,19
+
+178,Balcones de las Florez Torre A Avenida 5BN # 64n - 80 COLOMBIA Valle del cauca CALI ,3.48447,-76.50239,4
+
+179,Balcones de las Florez Torre B Avenida 5BN # 64n - 80 COLOMBIA Valle del cauca CALI ,3.49227,-76.52109,2
+
+180,Balcones de las Florez Pta. Electrica Vehicular Avenida 5BN # 64n - 80 COLOMBIA Valle del cauca CALI ,3.49227,-76.52109,2
+
+181,C.R Alameda de chipichape Torre 1 Calle 39N # 6N - 41 COLOMBIA Valle del cauca CALI ,3.47832,-76.52688,2
+
+182,CR Alameda de chipichape Torre 2 Calle 39N # 6N - 41 COLOMBIA Valle del cauca CALI ,3.47832,-76.52688,2
+
+183,C.R Alameda de chipichape PtA. Electrica Vehicular Calle 39N # 6N - 41 COLOMBIA Valle del cauca CALI ,3.47832,-76.52688,2
+
+184,Apartahotel Sol  Luna  QP S.A.S Calle 36 # 42-73 COLOMBIA Valle del cauca CALI ,3.41223,-76.51461,16
+
+185,Almacenes �xito Simon Bolivar Calle 70 # 28-28 COLOMBIA Valle del cauca CALI ,3.4277,-76.50027,12
+
+186,Almacenes �xito Simon BolivarIngreso Almacen Calle 70 # 28-28 COLOMBIA Valle del cauca CALI ,3.4277,-76.50027,12
+
+187,Almacenes �xito Simon BolivarIngreso Peatonal Calle 70 # 28-28 COLOMBIA Valle del cauca CALI ,3.4277,-76.50027,12
+
+188,Edificio Piedemonte Ascensor Avenida 4 Oeste #5 -250 COLOMBIA Valle del cauca CALI ,3.45477,-76.54681,2
+
+189,Edificio Piedemonte Semis�tano Avenida 4 Oeste #5 -250 COLOMBIA Valle del cauca CALI ,3.45477,-76.54681,2
+
+190,Edificio Piedemonte s�tano Avenida 4 Oeste #5 -250 COLOMBIA Valle del cauca CALI ,3.45477,-76.54681,2
+
+191,Edificio Maitama Ascensores Carrera 2 Oeste # 7 - 134 COLOMBIA Valle del cauca CALI ,3.44997,-76.54892,2
+
+192,Edificio Maitama Puerta Vehicular Carrera 2 Oeste # 7 - 134 COLOMBIA Valle del cauca CALI ,3.44997,-76.54892,2
+
+193,Edificio Montevechio Ascensores Calle 6 Oeste # 6-89 COLOMBIA Valle del cauca CALI ,3.45526,-76.54904,1
+
+194,Edificio Montevechio Puerta Vehicular Calle 6 Oeste # 6-89 COLOMBIA Valle del cauca CALI ,3.45526,-76.54904,1
+
+195,Conjunto Residencial Miravento Puerta Vehicular Carrera 81 # 47-08 COLOMBIA Valle del cauca CALI ,3.38693,-76.51687,17
+
+196,Conjunto Residencial Miravento Torre A Carrera 81 # 47-08 COLOMBIA Valle del cauca CALI ,3.38675,-76.51685,17
+
+197,Conjunto Residencial Miravento Torre B Carrera 81 # 47-08 COLOMBIA Valle del cauca CALI ,3.38693,-76.51687,17
+
+198,Conjunto Residencial Miravento Torre C Carrera 81 # 47-08 COLOMBIA Valle del cauca CALI ,3.38693,-76.51687,17
+
+199,Conjunto Residencial Miravento Torre D Carrera 81 # 47-08 COLOMBIA Valle del cauca CALI ,3.38693,-76.51687,17
+
+200,Conjunto Residencial Miravento Torre E Carrera 81 # 47-08 COLOMBIA Valle del cauca CALI ,3.38693,-76.51687,17
+
+201,Conjunto Residencial los Robles Torre 1 Calle 28 #85-36 COLOMBIA Valle del cauca CALI ,3.38053,-76.52365,17
+
+202,Conjunto Residencial los Robles Torre 2 Calle 28 #85-36 COLOMBIA Valle del cauca CALI ,3.38053,-76.52365,17
+
+203,Conjunto Residencial los Robles Torre 3 Calle 28 #85-36 COLOMBIA Valle del cauca CALI ,3.38053,-76.52365,17
+
+204,Conjunto Residencial los Robles Torre 4 Calle 28 #85-36 COLOMBIA Valle del cauca CALI ,3.38053,-76.52365,17
+
+205,Conjunto Residencial los Robles Torre 5 Calle 28 #85-36 COLOMBIA Valle del cauca CALI ,3.38053,-76.52365,17
+
+206,Conjunto Residencial los Robles Puerta Vehicular Entrada Calle 28 #85-36 COLOMBIA Valle del cauca CALI ,3.38053,-76.52365,17
+
+207,Conjunto Residencial los Robles Puerta Vehicular Salida Calle 28 #85-36 COLOMBIA Valle del cauca CALI ,3.38053,-76.52365,17
+
+208,Conjunto Residencial el Bosque Puerta Vehicular Calle 28 #85C-30 COLOMBIA Valle del cauca CALI ,3.38066,-76.52374,17
+
+209,Conjunto Residencial el Bosque Puerta Torre 1 Calle 28 #85C-30 COLOMBIA Valle del cauca CALI ,3.38066,-76.52374,17
+
+210,Conjunto Residencial el Bosque Puerta Torre 2 Calle 28 #85C-30 COLOMBIA Valle del cauca CALI ,3.38066,-76.52374,17
+
+211,Conjunto Residencial el Bosque Puerta Torre 3 Calle 28 #85C-30 COLOMBIA Valle del cauca CALI ,3.38066,-76.52374,17
+
+212,Conjunto Residencial el Bosque Puerta Torre 4 Calle 28 #85C-30 COLOMBIA Valle del cauca CALI ,3.38066,-76.52374,17
+
+213,Conjunto Residencial el Bosque Puerta Torre 5 Calle 28 #85C-30 COLOMBIA Valle del cauca CALI ,3.38066,-76.52374,17
+
+214,C.C Cemtenario EElectrica Sotano 3 Subiendo Avenida 4N # 7N - 46 COLOMBIA Valle del cauca CALI ,3.45396,-76.53685,2
+
+215,C.C Cemtenario EElectrica Sotano 3 Bajando Avenida 4N # 7N - 46 COLOMBIA Valle del cauca CALI ,3.45396,-76.53685,2
+
+216,C.C Centenario E.Electrica Sotano 2 Subiendo Avenida 4N # 7N - 46 COLOMBIA Valle del cauca CALI ,3.45396,-76.53685,2
+
+217,C.C Centenario E.Electrica Sotano 2 Bajando Avenida 4N # 7N - 46 COLOMBIA Valle del cauca CALI ,3.45396,-76.53685,2
+
+218,CC Centenario E. Electrica Sotano 1 Subiendo Avenida 4N # 7N - 46 COLOMBIA Valle del cauca CALI ,3.45396,-76.53685,2
+
+219,C.C Centenario E. Electrica Sotano 1 Bajando Avenida 4N # 7N - 46 COLOMBIA Valle del cauca CALI ,3.45396,-76.53685,2
+
+220,C.C Centenario E.Escalera Piso 4 Subiendo Avenida 4N # 7N - 46 COLOMBIA Valle del cauca CALI ,3.45396,-76.53685,2
+
+221,C.C Centenario E Electrica Piso 4 Bajando Avenida 4N # 7N - 46 COLOMBIA Valle del cauca CALI ,3.45396,-76.53685,2
+
+222,C.C Centenario E.Electrica Piso 3 Subiendo Avenida 4N # 7N - 46 COLOMBIA Valle del cauca CALI ,3.45396,-76.53685,2
+
+223,C.C Centenario E.Electrica Piso 3 Bajando Avenida 4N # 7N - 46 COLOMBIA Valle del cauca CALI ,3.45396,-76.53685,2
+
+224,C.C Centenario E. Electrica Piso 2 Bajando Avenida 4N # 7N - 46 COLOMBIA Valle del cauca CALI ,3.45396,-76.53685,2
+
+225,C.C Centenario E Electrica Piso 2 Subiendo Avenida 4N # 7N - 46 COLOMBIA Valle del cauca CALI ,3.45396,-76.53685,2
+
+226,C.C Centenario Ascensor 1 Norte Avenida 4N # 7N - 46 COLOMBIA Valle del cauca CALI ,3.45396,-76.53685,2
+
+227,C.C Centenario Ascensor 2 Sur Avenida 4N # 7N - 46 COLOMBIA Valle del cauca CALI ,3.45396,-76.53685,2
+
+228,C.C Centenario Ascensor de Carga 1 Norte Avenida 4N # 7N - 46 COLOMBIA Valle del cauca CALI ,3.45396,-76.53685,2
+
+229,C.C Centenario Ascensor de Carga 2 Sur Avenida 4N # 7N - 46 COLOMBIA Valle del cauca CALI ,3.45396,-76.53685,2
+
+230,Conjunto Residencial Reserva de Cristales Torre A Carrera 36A # 8A Oeste - 17 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+231,Conjunto Residencial Reserva de Cristales Torre B Carrera 36A # 8A Oeste - 17 COLOMBIA Valle del cauca CALI ,3.43317,-76.54989,19
+
+232,Conjunto Residencial Reserva de Cristales Puerta Vehicular 1 Carrera 36A # 8A Oeste - 17 COLOMBIA Valle del cauca CALI ,3.43317,-76.54989,19
+
+233,Conjunto Residencial Reserva de Cristales Puerta Vehicular 2 Carrera 36A # 8A Oeste - 17 COLOMBIA Valle del cauca CALI ,3.43317,-76.54989,19
+
+234,Conjunto Residencial Riveras del Rio Torre Loira Carrera 54 # 1A- 60 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+235,Conjunto Residencial Riveras del Rio Torre Danubio Carrera 54 # 1A- 60 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+236,Conjunto Residencial Riveras del Rio Torre Hudson Carrera 54 # 1A- 60 COLOMBIA Valle del cauca CALI ,3.41232,-76.55411,19
+
+237,Conjunto Residencial Riveras del Rio Torre Nilo Carrera 54 # 1A- 60 COLOMBIA Valle del cauca CALI ,3.41232,-76.55411,19
+
+238,Conjunto Residencial Riveras del Rio Torre Parana Carrera 54 # 1A- 60 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+239,Conjunto Residencial Riveras del Rio Torre Tamesis Carrera 54 # 1A- 60 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+240,Conjunto Residencial Riveras del Rio Torre Orinoco Carrera 54 # 1A- 60 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+241,Conjunto Residencial Riveras del Rio Torre Volga Carrera 54 # 1A- 60 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+242,Conjunto Residencial Riveras del Rio Puerta Vehicular Salida Carrera 54 # 1A- 60 COLOMBIA Valle del cauca CALI ,3.41232,-76.55411,19
+
+243,Conjunto Residencial Riveras del Rio Puerta Vehicular Entrada Carrera 54 # 1A- 60 COLOMBIA Valle del cauca CALI ,3.41232,-76.55411,19
+
+244,Condominio Rincon de la Plaza Torre A Carrera 54A #5A - 21 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+245,Condominio Rincon de la Plaza Torre B Carrera 54A #5A - 21 COLOMBIA Valle del cauca CALI ,3.41061,-76.54682,19
+
+246,Condominio Rincon de la Plaza Puerta Vehicular Carrera 54A #5A - 21 COLOMBIA Valle del cauca CALI ,3.41061,-76.54682,19
+
+247,Servicios Integrados de Salud S.A.S serinsa oriente Carrera 8 # 52-164 COLOMBIA Valle del cauca CALI ,3.45261,-76.49758,8
+
+248,H.U.V Evaristo Garcia Sede Norte bloque A 1 Avenida 3 Norte # 32 AN 40 COLOMBIA Valle del cauca CALI ,3.47007,-76.52268,2
+
+249,H.U.V Evaristo Garcia Sede Norte bloque A 2 Avenida 3 Norte # 32 AN 40 COLOMBIA Valle del cauca CALI ,3.4802,-76.51614,2
+
+250,H.U.V Evaristo Garcia Sede Norte bloque B 1 Avenida 3 Norte # 32 AN 40 COLOMBIA Valle del cauca CALI ,3.47007,-76.52268,2
+
+251,H.U.V Evaristo Garcia Sede Norte bloque B 2 Avenida 3 Norte # 32 AN 40 COLOMBIA Valle del cauca CALI ,3.4802,-76.51614,2
+
+252,Conjunto residencial Girasoles I entrada 1 Calle 3 BN # 2BN 08 COLOMBIA Valle del cauca CALI ,3.48141,-76.51692,2
+
+253,Conjunto residencial Girasoles I entrada 2 Calle 3 BN # 2BN 08 COLOMBIA Valle del cauca CALI ,3.4494,-76.53995,3
+
+254,Conjunto residencial Girasoles I salida 1 Calle 3 BN # 2BN 08 COLOMBIA Valle del cauca CALI ,3.48141,-76.51692,2
+
+255,Conjunto Residencial Parques de la Flora Entrada 1 Calle 33 AN # 2BN 54 COLOMBIA Valle del cauca CALI ,3.47064,-76.52063,2
+
+256,Conjunto Residencial Parques de la Flora Entrada 2 Calle 33 AN # 2BN 54 COLOMBIA Valle del cauca CALI ,3.47064,-76.52063,2
+
+257,Conjunto Residencial Parques de la Flora Salida 1 Calle 33 AN # 2BN 54 COLOMBIA Valle del cauca CALI ,3.47064,-76.52063,2
+
+258,Centro Comercial Chipichape ASC 1 y 2 Calle 38 N # 6N-35 COLOMBIA Valle del cauca CALI ,3.47595,-76.52782,2
+
+259,Centro Comercial Chipichape ASC 3 y 4 Calle 38 N # 6N-35 COLOMBIA Valle del cauca CALI ,3.47595,-76.52782,2
+
+260,Centro Comercial Chipichape ASC 5 y 6 Calle 38 N # 6N-35 COLOMBIA Valle del cauca CALI ,3.47595,-76.52782,2
+
+261,Centro Comercial Chipichape ASC 7 y 8 Calle 38 N # 6N-35 COLOMBIA Valle del cauca CALI ,3.47595,-76.52782,2
+
+262,Centro Comercial Chipichape ASC 9 Calle 38 N # 6N-35 COLOMBIA Valle del cauca CALI ,3.47601,-76.52788,2
+
+263,Centro Comercial Chipichape ASC 11 Calle 38 N # 6N-35 COLOMBIA Valle del cauca CALI ,3.47601,-76.52788,2
+
+264,Centro Comercial Chipichape ASC 12 Y 13 Calle 38 N # 6N-35 COLOMBIA Valle del cauca CALI ,3.47595,-76.52782,2
+
+265,Centro Comercial Chipichape ASC 14 Y 15 Calle 38 N # 6N-36 COLOMBIA Valle del cauca CALI ,3.47601,-76.52788,2
+
+266,Centro Comercial chipichape ESC 1 Y 2 Calle 38 N # 6N-35 COLOMBIA Valle del cauca CALI ,3.47595,-76.52782,2
+
+267,Centro Comercial chipichape ESC 3 Y 4 Calle 38 N # 6N-35 COLOMBIA Valle del cauca CALI ,3.4771,-76.52482,2
+
+268,Centro Comercial chipichape ESC 5 Y 6 Calle 38 N # 6N-35 COLOMBIA Valle del cauca CALI ,3.47737,-76.52784,2
+
+269,Centro Comercial chipichape ESC 7 Y 8 Calle 38 N # 6N-35 COLOMBIA Valle del cauca CALI ,3.47595,-76.52782,2
+
+270,Centro Comercial chipichape ESC 9 Y 10 Calle 38 N # 6N-35 COLOMBIA Valle del cauca CALI ,3.47595,-76.52782,2
+
+271,Centro comercial chipichape ESC 11 y 12 Calle 38 N # 6N-35 COLOMBIA Valle del cauca CALI ,3.47595,-76.52782,2
+
+272,Centro comercial chipichape ESC 13 Y 14 Calle 38 N # 6N-35 COLOMBIA Valle del cauca CALI ,3.47595,-76.52782,2
+
+273,Intenalco Educacion Superior bloque 1 Avenida 4 Norte # 34 AN 18 COLOMBIA Valle del cauca CALI ,3.47273,-76.52376,2
+
+274,Intenalco Educacion Superior bloque 2 Avenida 4 Norte # 34 AN 18 COLOMBIA Valle del cauca CALI ,3.47273,-76.52376,2
+
+275,Conjunto Residencial Multifamiliar la Arboleda Puerta Vehicular S�tano Carrera 75 # 3C - 11 COLOMBIA Valle del cauca CALI ,3.39042,-76.54826,18
+
+276,Conjunto Residencial Multifamiliar la Arboleda Puerta Vehicular Terraza Carrera 75 # 3C - 11 COLOMBIA Valle del cauca CALI ,3.39042,-76.54826,18
+
+277,Conjunto Residencial Multifamiliar la Arboleda Ascensores Torre 1 Carrera 75 # 3C - 11 COLOMBIA Valle del cauca CALI ,3.39042,-76.54826,18
+
+278,Conjunto Residencial Multifamiliar la Arboleda Ascensores Torre 2 Carrera 75 # 3C - 11 COLOMBIA Valle del cauca CALI ,3.39042,-76.54826,18
+
+279,Conjunto Residencial Multifamiliar la Arboleda Ascensores Torre 3 Carrera 75 # 3C - 11 COLOMBIA Valle del cauca CALI ,3.39042,-76.54826,18
+
+280,Conjunto Residencial Multifamiliar la Arboleda Ascensores Torre 4 Carrera 75 # 3C - 11 COLOMBIA Valle del cauca CALI ,3.39042,-76.54826,18
+
+281,Conjunto Residencial Multifamiliar la Arboleda Ascensores Torre 5 Carrera 75 # 3C - 11 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+282,Conjunto Residencial Multifamiliar la Arboleda Ascensores Torre 6 Carrera 75 # 3C - 11 COLOMBIA Valle del cauca CALI ,3.39042,-76.54826,18
+
+283,Conjunto Residencial Multifamiliar la Arboleda Ascensores Torre 7 Carrera 75 # 3C - 11 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+284,Conjunto Residencial Multifamiliar la Arboleda Ascensores Torre 8 Carrera 75 # 3C - 11 COLOMBIA Valle del cauca CALI ,3.39042,-76.54826,18
+
+285,Conjunto Residencial Castilla Grande Puerta Vehicular Entrada Calle 18 #69 - 100 COLOMBIA Valle del cauca CALI ,3.39341,-76.52672,17
+
+286,Conjunto Residencial Castilla Grande Puerta Vehicular Salida Calle 18 #69 - 100 COLOMBIA Valle del cauca CALI ,3.39341,-76.52672,17
+
+287,Conjunto Residencial Castilla Grande Torre A Calle 18 #69 - 100 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+288,Conjunto Residencial Castilla Grande Torre B Calle 18 #69 - 100 COLOMBIA Valle del cauca CALI ,3.39341,-76.52672,17
+
+289,Conjunto Residencial Castilla Grande Torre C Calle 18 #69 - 100 COLOMBIA Valle del cauca CALI ,3.39341,-76.52672,17
+
+290,Conjunto Residencial Castilla Grande Torre D Calle 18 #69 - 100 COLOMBIA Valle del cauca CALI ,3.39341,-76.52672,17
+
+291,Conjunto Residencial Castilla Grande Torre E Calle 18 #69 - 100 COLOMBIA Valle del cauca CALI ,3.39341,-76.52672,17
+
+292,Conjunto Residencial Castilla Grande Torre F Calle 18 #69 - 100 COLOMBIA Valle del cauca CALI ,3.39341,-76.52672,17
+
+293,Conjunto Residencial Munchique Puerta Electrica Carrera 94A # 48-56 COLOMBIA Valle del cauca CALI ,3.37441,-76.51568,17
+
+294,Conjunto Residencial Munchique Torre 1 Carrera 94A # 48-57 COLOMBIA Valle del cauca CALI ,3.37441,-76.51568,17
+
+295,Conjunto Residencial Munchique Torre 2 Carrera 94A # 48-58 COLOMBIA Valle del cauca CALI ,3.37441,-76.51568,17
+
+296,Conjunto Residencial Munchique Torre 3 Carrera 94A # 48-59 COLOMBIA Valle del cauca CALI ,3.37441,-76.51568,17
+
+297,Conjunto Residencial Munchique Torre 4 Carrera 94A # 48-60 COLOMBIA Valle del cauca CALI ,3.37441,-76.51568,17
+
+298,Conjunto Residencial Munchique Torre 5 Carrera 94A # 48-61 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+299,Conjunto Residencial Munchique Torre 6 Carrera 94A # 48-62 COLOMBIA Valle del cauca CALI ,3.37441,-76.51568,17
+
+300,Conjunto Residencial Munchique Torre 7 Carrera 94A # 48-63 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+301,Conjunto Residencial Lili Campestre Puerta Vehicular Calle 48 #94-80 COLOMBIA Valle del cauca CALI ,3.37434,-76.51664,17
+
+302,Conjunto Residencial Lili Campestre Torre 1 Calle 48 #94-80 COLOMBIA Valle del cauca CALI ,3.37434,-76.51664,17
+
+303,Conjunto Residencial Lili Campestre Torre 2 Calle 48 #94-81 COLOMBIA Valle del cauca CALI ,3.37434,-76.51664,17
+
+304,Conjunto Residencial Lili Campestre Torre 3 Calle 48 #94-82 COLOMBIA Valle del cauca CALI ,3.37434,-76.51664,17
+
+305,Conjunto Residencial Lili Campestre Torre 4 Calle 48 #94-83 COLOMBIA Valle del cauca CALI ,3.37434,-76.51664,17
+
+306,Conjunto Residencial Lili Campestre Torre 5 Calle 48 #94-84 COLOMBIA Valle del cauca CALI ,3.37434,-76.51664,17
+
+307,Conjunto Residencial Lili Campestre Torre 6 Calle 48 #94-85 COLOMBIA Valle del cauca CALI ,3.37434,-76.51664,17
+
+308,Conjunto Residencial Lili Campestre Torre 7 Calle 48 #94-86 COLOMBIA Valle del cauca CALI ,3.37434,-76.51664,17
+
+314,Conjunto Residencial Granate Torre 5 Carrera 96 #59-95 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+326,Conjunto Residencial Magenta A Puerta Vehicular Carera 97 #59-125  COLOMBIA Valle del cauca CALI ,3.37491,-76.54168,17
+
+327,Conjunto Residencial Magenta A Torre 1 Carera 97 #59-125  COLOMBIA Valle del cauca CALI ,3.37491,-76.54168,17
+
+328,Conjunto Residencial Magenta A Torre 2 Carera 97 #59-125  COLOMBIA Valle del cauca CALI ,3.37491,-76.54168,17
+
+329,Conjunto Residencial Magenta A Torre 3 Carera 97 #59-125  COLOMBIA Valle del cauca CALI ,3.37491,-76.54168,17
+
+330,Conjunto Residencial Magenta A Torre 4 Carera 97 #59-125  COLOMBIA Valle del cauca CALI ,3.37491,-76.54168,17
+
+331,Conjunto Residencial Magenta A Torre 5 Carera 97 #59-125  COLOMBIA Valle del cauca CALI ,3.37491,-76.54168,17
+
+332,Conjunto Residencial Magenta A Torre 6 Carera 97 #59-125  COLOMBIA Valle del cauca CALI ,3.37491,-76.54168,17
+
+333,Conjunto Residencial Magenta A Torre 7 Carera 97 #59-125  COLOMBIA Valle del cauca CALI ,3.37491,-76.54168,17
+
+334,Conjunto Residencial de la Flora 2 Avenida 2 BN # 32 AN 33 COLOMBIA Valle del cauca CALI ,3.49336,-76.50269,2
+
+335,Conjunto Residencial de la Flora 2 Torre A Avenida 2 BN # 32 AN 33 COLOMBIA Valle del cauca CALI ,3.46818,-76.51995,2
+
+336,Conjunto Residencial de la Flora 2 Torre B Avenida 2 BN # 32 AN 33 COLOMBIA Valle del cauca CALI ,3.46818,-76.51995,2
+
+337,Conjunto Residencial de la Flora 2 Torre C Avenida 2 BN # 32 AN 33 COLOMBIA Valle del cauca CALI ,3.46818,-76.51995,2
+
+338,Conjunto Residencial de la Flora 2 Torre D Avenida 2 BN # 32 AN 33 COLOMBIA Valle del cauca CALI ,3.46818,-76.51995,2
+
+339,Transportes Especiales Equios Siglo XXI Calle 70 # 7 D bis 40 COLOMBIA Valle del cauca CALI ,3.46135,-76.4836,7
+
+340,transportes Especiales Equios Siglo XXI Parqueadero Calle 70 # 7 D bis 40 COLOMBIA Valle del cauca CALI ,3.46135,-76.4836,7
+
+341,Conjunto Residencial Parques de Abedules Calle 69 # 5-82 COLOMBIA Valle del cauca CALI ,3.46622,-76.48671,5
+
+342,Conjunto Residencial Parques de Abedules Torre A Calle 69 # 5-82 COLOMBIA Valle del cauca CALI ,3.46622,-76.48671,5
+
+343,Conjunto Residencial Parques de Abedules Torre B Calle 69 # 5-82 COLOMBIA Valle del cauca CALI ,3.46622,-76.48671,5
+
+344,Conjunto Residencial Parques de Abedules Torre C Calle 69 # 5-82 COLOMBIA Valle del cauca CALI ,3.46622,-76.48671,5
+
+345,Conjunto Residencial Parques de Abedules Torre D Calle 69 # 5-82 COLOMBIA Valle del cauca CALI ,3.46622,-76.48671,5
+
+346,Conjunto Residencial Rincon de la Flora 3 Avenida 2 BN # 2 AN 42 COLOMBIA Valle del cauca CALI ,3.46814,-76.51992,2
+
+347,Conjunto Residencial Rincon de la Flora 3 Torre A-B Avenida 2 BN # 2 AN 42 COLOMBIA Valle del cauca CALI ,3.46814,-76.51992,2
+
+348,Conjunto Residencial Rincon de la Flora 3 Torre C Avenida 2 BN # 2 AN 42 COLOMBIA Valle del cauca CALI ,3.46814,-76.51992,2
+
+349,Plaza Edificio QUEST NCS S.A.S Calle 64 A # 5-94 COLOMBIA Valle del cauca CALI ,3.46518,-76.4888,5
+
+350,Plaza Edificio QUEST NCS S.A.S Parqueadero Calle 64 A # 5-94 COLOMBIA Valle del cauca CALI ,3.46518,-76.4888,5
+
+351,Palmetto Plaza Panoramico 1 Calle 9 # 48 - 81 COLOMBIA Valle del cauca CALI ,3.41291,-76.54079,19
+
+352,Palmetto Plaza Panoramico 2 Calle 9 # 48 - 81 COLOMBIA Valle del cauca CALI ,3.41291,-76.54079,19
+
+353,Palmetto Plaza Ascensor Exito 3 Calle 9 # 48 - 81 COLOMBIA Valle del cauca CALI ,3.41291,-76.54079,19
+
+354,Palmetto Plaza Ascensor de Carga 4 Calle 9 # 48 - 81 COLOMBIA Valle del cauca CALI ,3.41291,-76.54079,19
+
+355,Palmetto Plaza Escalera Sector Tigo  Calle 9 # 48 - 81 COLOMBIA Valle del cauca CALI ,3.41291,-76.54079,19
+
+356,Palmetto Plaza Escalera Sector Emporio  Calle 9 # 48 - 81 COLOMBIA Valle del cauca CALI ,3.41291,-76.54079,19
+
+357,Palmetto Plaza Escalera Sector Estudio F Calle 9 # 48 - 81 COLOMBIA Valle del cauca CALI ,3.41291,-76.54079,19
+
+358,Palmetto Plaza Escalera Sector Azurry Calle 9 # 48 - 81 COLOMBIA Valle del cauca CALI ,3.41291,-76.54079,19
+
+359,Palmetto Plaza Escalera Sector Can Cam Calle 9 # 48 - 81 COLOMBIA Valle del cauca CALI ,3.41291,-76.54079,19
+
+360,Palmetto Plaza Escalera Sector Le�os Calle 9 # 48 - 81 COLOMBIA Valle del cauca CALI ,3.41291,-76.54079,19
+
+361,Palmetto Plaza Escalera Sector Exito  Calle 9 # 48 - 81 COLOMBIA Valle del cauca CALI ,3.41291,-76.54079,19
+
+362,Palmetto Plaza Escalera Sector  Chenft Calle 9 # 48 - 81 COLOMBIA Valle del cauca CALI ,3.41291,-76.54079,19
+
+363,Centro Medico Imbanaco de Cali Radio Farmacia 1 Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42648,-76.54539,19
+
+364,Centro Medico Imbanaco de Cali Torre A  PISO5 Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42648,-76.54539,19
+
+365,Centro Medico Imbanaco de Cali Preparacon de Pacientes 1-7 Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42648,-76.54539,19
+
+366,Centro Medico Imbanaco de Cali Preparacion de Pacientes2-8 Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42648,-76.54539,19
+
+367,Centro Medico Imbanaco de Cali Puerta Biplano-40 Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42648,-76.54539,19
+
+368,Centro Medico Imbanaco de Cali Quirofano17-32 Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42648,-76.54539,19
+
+369,Centro Medico Imbanaco de Cali Residuos Solidos 4 Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42648,-76.54539,19
+
+370,Centro Medico Imbanaco de Cali Rehabilitacion Fisica Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42648,-76.54539,19
+
+371,Centro Medico Imbanaco de Cali Sala Examen2 Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42606,-76.54486,19
+
+372,Centro Medico Imbanaco de Cali Transplante de Medula-38 Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42648,-76.54539,19
+
+373,Centro Medico Imbanaco de Cali Monoplano-41 Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42648,-76.54539,19
+
+374,Centro Medico Imbanaco de Cali Sala Espera Pacientes Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42648,-76.54539,19
+
+375,Centro Medico Imbanaco de CaliPreparacion pacientes 3-9 Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42648,-76.54539,19
+
+376,Centro Medico Imbanaco de Cali Rayos X 4-16 Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42648,-76.54539,19
+
+377,Centro Medico Imbanaco de Cali Consulta Externa Oncologia Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42648,-76.54539,19
+
+378,Centro Medico Imbanaco de Cali Sala Fluoroscopio 7-34 Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42648,-76.54539,19
+
+379,Centro Medico Imbanaco de Cali Mamografia 1-10 Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42648,-76.54539,19
+
+380,Centro Medico Imbanaco de Cali Tomografia 128 Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42648,-76.54539,19
+
+381,Centro Medico Imbanaco de Cali Mamografia 2-11 Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42648,-76.54539,19
+
+382,Centro Medico Imbanaco de Cali Tomografia 128cuarto de control Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42648,-76.54539,19
+
+383,Centro Medico Imbanaco de Cali Tomografia Paciente 16 Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42648,-76.54539,19
+
+384,Centro Medico Imbanaco de Cali Rayos X 5-14 Pasillos Privados Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42648,-76.54539,19
+
+385,Centro Medico Imbanaco de Cali Rayos X 1-17 Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42648,-76.54539,19
+
+386,Centro Medico Imbanaco de Cali Sala Broncoscopia 8 Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42648,-76.54539,19
+
+387,Centro Medico Imbanaco de Cali Habitacion 865 Yodados Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42648,-76.54539,19
+
+388,Centro Medico Imbanaco de Cali Habitacion 864 Yodados Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42648,-76.54539,19
+
+389,Centro Medico Imbanaco de Cali Torre B Camillero Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42648,-76.54539,19
+
+390,Centro Medico Imbanaco de Cali Torre A -1 Pasajeros Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42648,-76.54539,19
+
+391,Centro Medico Imbanaco de Cali Torre A medicos Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42648,-76.54539,19
+
+392,Centro Medico Imbanaco de Cali Torre B Pasajeros Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42648,-76.54539,19
+
+393,Centro Medico Imbanaco de Cali Torre A-2 Camillero Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42648,-76.54539,19
+
+394,Centro Medico Imbanaco de Cali Negativo 2 Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42648,-76.54539,19
+
+395,Centro Medico Imbanaco de Cali Puerta Gris Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42606,-76.54486,19
+
+396,Centro Medico Imbanaco de Cali Torre A Publico 5 Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42648,-76.54539,19
+
+397,Centro Medico Imbanaco de Cali Torre A Publico 4 Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42648,-76.54539,19
+
+398,Centro Medico Imbanaco de Cali Panoramico Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42606,-76.54486,19
+
+399,Centro Medico Imbanaco de Cali Escalera bajando Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42606,-76.54486,19
+
+400,Centro Medico Imbanaco de Cali Escalera subiendo Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42606,-76.54486,19
+
+401,Centro Medico Imbanaco de Cali Negativo 3 Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42648,-76.54539,19
+
+402,Centro Medico Imbanaco de Cali Negativo 1 Carrera 38 bis # 5b2 -04 COLOMBIA Valle del cauca CALI ,3.42648,-76.54539,19
+
+403,Centro Medico Imbanaco Cali- sede principal Puerta el�ctrica Trasplante de M�dula Carrera 38 bis #5A - 204 COLOMBIA Valle del cauca CALI ,3.42641,-76.54526,19
+
+404,Centro Medico Imbanaco Cali- sede principal Puerta el�ctrica Quirofano 2 Carrera 38 bis #5A - 204 COLOMBIA Valle del cauca CALI ,3.42641,-76.54526,19
+
+405,Centro Medico Imbanaco Cali- sede principal Puerta el�ctrica Quirofano 3 Carrera 38 bis #5A - 204 COLOMBIA Valle del cauca CALI ,3.42648,-76.54539,19
+
+406,Centro Medico Imbanaco Cali- sede principal Puerta el�ctrica Quirofano 4 Carrera 38 bis #5A - 204 COLOMBIA Valle del cauca CALI ,3.42641,-76.54526,19
+
+407,Centro Medico Imbanaco Cali- sede principal Puerta el�ctrica Quirofano 5 Carrera 38 bis #5A - 204 COLOMBIA Valle del cauca CALI ,3.42641,-76.54526,19
+
+408,Centro Medico Imbanaco Cali- sede principal Puerta el�ctrica Quirofano 6 Carrera 38 bis #5A - 204 COLOMBIA Valle del cauca CALI ,3.42567,-76.54457,19
+
+409,Centro Medico Imbanaco Cali- sede principal Puerta el�ctrica Quirofano 7 Carrera 38 bis #5A - 204 COLOMBIA Valle del cauca CALI ,3.42567,-76.54457,19
+
+410,Centro Medico Imbanaco Cali- sede principal Puerta el�ctrica Quirofano 8 Carrera 38 bis #5A - 204 COLOMBIA Valle del cauca CALI ,3.42567,-76.54457,19
+
+411,Centro Medico Imbanaco Cali- sede principal Puerta el�ctrica Quirofano 9 Carrera 38 bis #5A - 204 COLOMBIA Valle del cauca CALI ,3.42567,-76.54457,19
+
+412,Centro Medico Imbanaco Cali- sede principal Puerta el�ctrica Quirofano 10 Carrera 38 bis #5A - 204 COLOMBIA Valle del cauca CALI ,3.42567,-76.54457,19
+
+413,Centro Medico Imbanaco Cali- sede principal Puerta el�ctrica Quirofano 11 Carrera 38 bis #5A - 204 COLOMBIA Valle del cauca CALI ,3.42567,-76.54457,19
+
+414,Centro Medico Imbanaco Cali- sede principal Puerta el�ctrica Quirofano 12 Carrera 38 bis #5A - 204 COLOMBIA Valle del cauca CALI ,3.42567,-76.54457,19
+
+415,Centro Medico Imbanaco Cali- sede principal Puerta el�ctrica Quirofano 13 Carrera 38 bis #5A - 204 COLOMBIA Valle del cauca CALI ,3.42567,-76.54457,19
+
+416,Centro Medico Imbanaco Cali- sede principal Puerta el�ctrica Quirofano 14 Carrera 38 bis #5A - 204 COLOMBIA Valle del cauca CALI ,3.42641,-76.54526,19
+
+417,Centro Medico Imbanaco Cali- sede principal Puerta el�ctrica Quirofano 15 Carrera 38 bis #5A - 204 COLOMBIA Valle del cauca CALI ,3.42641,-76.54526,19
+
+418,Centro Medico Imbanaco Cali- Publico 6 Carrera 38 bis #5A - 204 COLOMBIA Valle del cauca CALI ,3.42606,-76.54486,19
+
+419,Centro Medico Imbanaco Cali- Publico 7 Carrera 38 bis #5A - 204 COLOMBIA Valle del cauca CALI ,3.42606,-76.54486,19
+
+420,Centro Medico Imbanaco Cali- Publico 8 Carrera 38 bis #5A - 204 COLOMBIA Valle del cauca CALI ,3.42606,-76.54486,19
+
+421,Centro Medico Imbanaco Cali- Publico 9 Carrera 38 bis #5A - 204 COLOMBIA Valle del cauca CALI ,3.42606,-76.54486,19
+
+422,Centro Medico Imbanaco Cali- Publico 10 Carrera 38 bis #5A - 204 COLOMBIA Valle del cauca CALI ,3.42606,-76.54486,19
+
+423,Centro Medico Imbanaco Cali- Publico 11 Carrera 38 bis #5A - 204 COLOMBIA Valle del cauca CALI ,3.42606,-76.54486,19
+
+424,Centro Medico Imbanaco Cali- Urgencia 12 Carrera 38 bis #5A - 204 COLOMBIA Valle del cauca CALI ,3.42606,-76.54486,19
+
+425,Centro Medico Imbanaco Cali- urgencia 13 Carrera 38 bis #5A - 204 COLOMBIA Valle del cauca CALI ,3.42606,-76.54486,19
+
+426,Centro Medico Imbanaco Cali-Sucio 16 Carrera 38 bis #5A - 204 COLOMBIA Valle del cauca CALI ,3.42641,-76.54526,19
+
+427,Centro Medico Imbanaco Cali- Rehabilitacion Fisca Carrera 38 bis #5A - 204 COLOMBIA Valle del cauca CALI ,3.42641,-76.54526,19
+
+428,Centro Medico Imbanaco Cali-Limpio 14 Carrera 38 bis #5A - 204 COLOMBIA Valle del cauca CALI ,3.42641,-76.54526,19
+
+429,Centro Medico Imbanaco Cali-Limpio 15 Carrera 38 bis #5A - 204 COLOMBIA Valle del cauca CALI ,3.42641,-76.54526,19
+
+430,Centro Medico Imbanaco Cali-negativo 1 Carrera 38 bis #5A - 204 COLOMBIA Valle del cauca CALI ,3.42641,-76.54526,19
+
+431,Centro Medico Imbanaco Cali-18 cirugia Carrera 38 bis #5A - 204 COLOMBIA Valle del cauca CALI ,3.42606,-76.54486,19
+
+432,Centro Medico Imbanaco Cali-Esterilizacion Carrera 38 bis #5A - 204 COLOMBIA Valle del cauca CALI ,3.42606,-76.54486,19
+
+433,Centro Medico Imbanaco Cali-Falla Cardiaca Carrera 38 bis #5A - 204 COLOMBIA Valle del cauca CALI ,3.42606,-76.54486,19
+
+434,EDIFICIO HORIZONTE  COLOMBIA Valle del cauca CALI ,3.48096,-76.51085,2
+
+435,CR MADEIRA Crra 100 #28 - 68 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+436,CR MADEIRA TORRE 1 Crra 100 #28 - 68 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+437,CR MADEIRA TORRE 2 Crra 100 #28 - 68 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+438,CR MADEIRA TORRE 3 Crra 100 #28 - 68 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+439,CR MADEIRA TORRE 4 Crra 100 #28 - 68 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+440,CR ST TROPE Calle 34 #100a - 135 COLOMBIA Valle del cauca CALI ,3.36484,-76.52143,17
+
+441,CR ST TROPE TORRE 1 Calle 34 #100a - 135 COLOMBIA Valle del cauca CALI ,3.36484,-76.52143,17
+
+442,CR ST TROPE TORRE 2 Calle 34 #100a - 135 COLOMBIA Valle del cauca CALI ,3.36484,-76.52143,17
+
+443,CR ST TROPE TORRE 3 Calle 34 #100a - 135 COLOMBIA Valle del cauca CALI ,3.36484,-76.52143,17
+
+444,CR ST TROPE TORRE 4 Calle 34 #100a - 135 COLOMBIA Valle del cauca CALI ,3.36484,-76.52143,17
+
+445,EDIFICIO SOLEVANTE Carrera 3 #17 - 145 COLOMBIA Valle del cauca CALI ,3.45536,-76.52825,3
+
+446,EDIFICIO SOLEVANTE TORRE 3 ASC 2 Carrera 3 #17 - 145 COLOMBIA Valle del cauca CALI ,3.45539,-76.52834,3
+
+447,EDIFICIO SOLEVANTE TORRE 3 ASC 1 Carrera 3 #17 - 145 COLOMBIA Valle del cauca CALI ,3.45536,-76.52825,3
+
+448,EDIFICIO SOLEVANTE TORRE 2 ASC 2 Carrera 3 #17 - 145 COLOMBIA Valle del cauca CALI ,3.45539,-76.52834,3
+
+449,EDIFICIO SOLEVANTE TORRE 2 ASC 1 Carrera 3 #17 - 145 COLOMBIA Valle del cauca CALI ,3.45536,-76.52825,3
+
+450,EDIFICIO SOLEVANTE TORRE 1 ASC 2 Carrera 3 #17 - 145 COLOMBIA Valle del cauca CALI ,3.45539,-76.52834,3
+
+451,EDIFICIO SOLEVANTE TORRE 1 ASC 1 Carrera 3 #17 - 145 COLOMBIA Valle del cauca CALI ,3.45536,-76.52825,3
+
+452,CR BANYO TORRE 1 Calle 99 -74 COLOMBIA Valle del cauca CALI ,3.41572,-76.48064,14
+
+453,CR BANYO TORRE 2 Calle 99 -74 COLOMBIA Valle del cauca CALI ,3.41572,-76.48064,14
+
+454,CR BANYO TORRE 3 Calle 99 -74 COLOMBIA Valle del cauca CALI ,3.41572,-76.48064,14
+
+455,CR BANYO TORRE 4 Calle 99 -74 COLOMBIA Valle del cauca CALI ,3.41572,-76.48064,14
+
+456,CR BANYO TORRE 5 Calle 99 -74 COLOMBIA Valle del cauca CALI ,3.41572,-76.48064,14
+
+457,CR BANYO TORRE 6 Calle 99 -74 COLOMBIA Valle del cauca CALI ,3.41572,-76.48064,14
+
+459,MULTIFAMILIAR ALDEBORAN ASC 1 TORRE A Avenida 10N #21 - 85 COLOMBIA Valle del cauca CALI ,3.4642,-76.53399,2
+
+460,MULTIFAMILIAR ALDEBORAN ASC 2 TORRE A Avenida 10N #21 - 85 COLOMBIA Valle del cauca CALI ,3.4642,-76.53399,2
+
+461,MULTIFAMILIAR ALDEBORAN ASC 1 TORRE B Avenida 10N #21 - 85 COLOMBIA Valle del cauca CALI ,3.4642,-76.53399,2
+
+462,MULTIFAMILIAR ALDEBORAN ASC 2 TORRE B Avenida 10N #21 - 85 COLOMBIA Valle del cauca CALI ,3.4642,-76.53399,2
+
+463,MULTIFAMILIAR ALDEBORAN ASC 2 TORRE C Avenida 10N #21 - 85 COLOMBIA Valle del cauca CALI ,3.4642,-76.53399,2
+
+464,MULTIFAMILIAR ALDEBORAN ASC 1 TORRE D Avenida 10N #21 - 85 COLOMBIA Valle del cauca CALI ,3.4642,-76.53399,2
+
+465,MULTIFAMILIAR ALDEBORAN ASC 2 TORRE F Avenida 10N #21 - 85 COLOMBIA Valle del cauca CALI ,3.4642,-76.53399,2
+
+466,MULTIFAMILIAR ALDEBORAN Avenida 10N #21 - 85 COLOMBIA Valle del cauca CALI ,3.46106,-76.53512,2
+
+467,Conjunto Residencial Torres de Pijao I Carrera 31 # 2 C 33 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+468,Conjunto Residencial Torres de Pijao I Torre A Carrera 31 # 2 C 33 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+469,Conjunto Residencial Torres de Pijao I Torre B Carrera 31 # 2 C 33 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+470,JavesaludFundacion Consultorios Odontologicos Universidad Javeriana  COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+471,Zaguan de las Florez Pta Electrica Vehicular Calle 67N # 4B - 77 COLOMBIA Valle del cauca CALI ,3.49252,-76.52021,2
+
+472,Zaguan de las Florez Torre A Calle 67N # 4B - 77 COLOMBIA Valle del cauca CALI ,3.49188,-76.52017,2
+
+473,Zaguan de las Flores Torrez B Calle 67N # 4B - 77 COLOMBIA Valle del cauca CALI ,3.49252,-76.52021,2
+
+474,Zaguan de las Florez Torre C Calle 67N # 4B - 77 COLOMBIA Valle del cauca CALI ,3.49252,-76.52021,2
+
+475,Conjunto Residencial Torrees de San Joaquin P. Vehicular Calle 17 # 86-82 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+476,Conjunto Residencial Torrees de San Joaquin Torre F Calle 17 # 86-82 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+477,Conjunto Residencial Torrees de San Joaquin Torre E Calle 17 # 86-82 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+478,Conjunto Residencial Torrees de San Joaquin Torre D Calle 17 # 86-82 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+479,Conjunto Residencial Torrees de San Joaquin Torre C Calle 17 # 86-82 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+480,Conjunto Residencial Torrees de San Joaquin Torre B Calle 17 # 86-82 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+481,Conjunto Residencial Torrees de San Joaquin Torre A Calle 17 # 86-82 COLOMBIA Valle del cauca CALI ,3.45165,-76.53199,3
+
+482,Conjunto Residencial Firenze Puerta Vehicular Carrera 86 #25-83 COLOMBIA Valle del cauca CALI ,3.37969,-76.52392,17
+
+483,Conjunto Residencial Firenze Puerta Vehicular Torre 1 Carrera 86 #25-83 COLOMBIA Valle del cauca CALI ,3.37979,-76.52407,17
+
+484,Conjunto Residencial Firenze Puerta Vehicular Torre 2 Carrera 86 #25-83 COLOMBIA Valle del cauca CALI ,3.37979,-76.52407,17
+
+485,Conjunto Residencial Firenze Puerta Vehicular Torre 3 Carrera 86 #25-83 COLOMBIA Valle del cauca CALI ,3.37979,-76.52407,17
+
+486,Conjunto Residencial Firenze Puerta Vehicular Torre 4 Carrera 86 #25-83 COLOMBIA Valle del cauca CALI ,3.37979,-76.52407,17
+
+487,Edificio Quadratto Ascensores Carrera 36B #1 Oeste - 25 COLOMBIA Valle del cauca CALI ,3.4327,-76.5502,19
+
+488,Edificio Quadratto Puerta Vehicular Carrera 36B #1 Oeste - 25 COLOMBIA Valle del cauca CALI ,3.4327,-76.5502,19
+
+489,Edificio San Mateo Ascensor Avenida 7N # 25N - 125 COLOMBIA Valle del cauca CALI ,3.46886,-76.53175,2
+
+490,Edificio San Mateo Puerta Vehicular 1 Avenida 7N # 25N - 125 COLOMBIA Valle del cauca CALI ,3.46886,-76.53175,2
+
+491,Edificio San Mateo Puerta Vehicular 2 Avenida 7N # 25N - 125 COLOMBIA Valle del cauca CALI ,3.46886,-76.53175,2
+
+492,122 de la circunvalar Ascensores Calle 1Oeste #36B- 01 COLOMBIA Valle del cauca CALI ,3.4327,-76.54953,19
+
+493,122 de la circunvalar Puerta Vehicular Calle 1Oeste #36B- 01 COLOMBIA Valle del cauca CALI ,3.4327,-76.54953,19
+
+494,Centro Comercial Caicedo Plaza 1 Carrera 6 #12-35 COLOMBIA Valle del cauca CALI ,3.45103,-76.53143,3
+
+495,Centro Comercial Caicedo Plaza 2 Calle 12 # 5-75 COLOMBIA Valle del cauca CALI ,3.45103,-76.53217,3
+
+496,Edificio Victoria PH Carrera 6 # 11-67 COLOMBIA Valle del cauca CALI ,3.45074,-76.53203,3
+
+497,Edificio Valher PH Calle 11 # 5-61 COLOMBIA Valle del cauca CALI ,3.45068,-76.53242,3
+
+498,Edificio Rosa Isabel Carrera 6 # 8-67 COLOMBIA Valle del cauca CALI ,3.44969,-76.53416,3
+
+499,Centro Cultural Comfandi Calle 8 # 6-23 COLOMBIA Valle del cauca CALI ,3.44894,-76.53461,3
+
+500,Edificio Movistar Carrera 6 # 10-20 COLOMBIA Valle del cauca CALI ,3.45007,-76.53309,3
